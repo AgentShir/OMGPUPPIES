@@ -18,19 +18,29 @@ body{
     background-color: white;
 }
 
-header{
-    background-color; #ff8523;
-
 }
 
 a{
-    color: #white;
+    color: white;
     border: white;
     display: inline-block;
 }
 
+#site_header{
+    background-color: #ff8523;
+}
+
+.main_navigation{
+    color: white;
+    border: 1px;
+}
+
 h2, h3{
     color: #1fabe5;
+    font-weight: bold;
+}
+
+ul{
     font-weight: bold;
 }
 
