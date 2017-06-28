@@ -23,7 +23,6 @@ body{
 a{
     color: white;
     border: white;
-    display: inline-block;
 }
 
 #site_header{
@@ -41,6 +40,8 @@ ul{
 
 table{
     font-weight: normal;
+    border-style: solid;
+    border-color; #1fabe5;
 }
 
 thead{
@@ -50,6 +51,11 @@ thead{
 
 form{
     background-color: #dddddd;
+}
+
+.name{
+    background-color: #ff8523;
+    color: white;
 }
 
 #submit_button{
