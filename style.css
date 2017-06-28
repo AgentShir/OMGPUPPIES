@@ -51,3 +51,8 @@ thead{
 form{
     background-color: #dddddd;
 }
+
+#submit_button{
+    background-color: #1fabe5;
+    color: white;
+}
