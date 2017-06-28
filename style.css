@@ -39,7 +39,15 @@ h2, h3{
     font-weight: bold;
 }
 
+table{
+    font-weight: normal;
+}
+
 thead{
     background-color: #1fabe5;
     color: white;
+}
+
+tbody{
+    color: black;
 }
