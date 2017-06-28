@@ -18,16 +18,28 @@ body{
     background-color: white;
 }
 
-a{
-  color: #ff8523;
-}
-
-h2, h3{
-  color: #1fabe5;
-  font-weight: bold;
+#site_header{
+    color: white;
+    background-color: #ff8523;
 }
 
 .nav{
-    border: white;
+    margin: auto;
 
+}
+
+a{
+    color: #white;
+    border: white;
+    display: inline-block;
+}
+
+h2, h3{
+    color: #1fabe5;
+    font-weight: bold;
+}
+
+thead{
+    background-color: #1fabe5;
+    color: white;
 }
