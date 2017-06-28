@@ -30,11 +30,6 @@ a{
     background-color: #ff8523;
 }
 
-.main_navigation{
-    color: white;
-    border: 1px;
-}
-
 h2, h3{
     color: #1fabe5;
     font-weight: bold;
@@ -53,6 +48,6 @@ thead{
     color: white;
 }
 
-tbody{
-    color: black;
+form{
+    background-color: #dddddd;
 }
