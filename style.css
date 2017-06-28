@@ -1,0 +1,25 @@
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    background-color: white;
+}
+
+a{
+  color: #ff8523;
+}
+
+h2, h3{}
