@@ -20,6 +20,7 @@ body{
 
 div{
     margin: auto;
+    padding: 4px;
     background-color: white;
     vertical-align: middle;
     width: 80%;
@@ -27,7 +28,10 @@ div{
 
 a{
     color: #046c97;
-    border: white solid 2px;
+}
+
+main_navigation{
+    border: white solid 1px;
 }
 
 #site_header{
@@ -46,12 +50,17 @@ ul{
 table{
     font-weight: normal;
     border-style: solid;
-    border-color; #1fabe5;
+    border-color: #1fabe5;
 }
 
 thead{
     background-color: #1fabe5;
     color: white;
+}
+
+td{
+    border: 1px solid #1fabe5;
+
 }
 
 form{
